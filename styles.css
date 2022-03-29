@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.ava {
+  border-radius: 20%;
+  box-shadow: 2px 4px 12px black;
+}
+
+.container {
+  max-width: 1300px;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  background: #DCDCDC;
+  border-radius: 30px;
+  padding: 20px;
+
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
